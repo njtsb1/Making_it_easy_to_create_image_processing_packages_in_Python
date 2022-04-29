@@ -77,5 +77,5 @@ combination.find_difference(image1, image2)
 ## Author (who hosted the project on Test Pypi)
 Nivaldo Beirão
 
-## License
+## [LICENSE](./LICENSE)
 [MIT](https://choosealicense.com/licenses/mit/)
