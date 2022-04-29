@@ -1,3 +1,5 @@
+Daily Learning
+
 # Project: Image Processing Package
 ## Project Author: Karina Kato
 ### Class: Coding Lab PRO - Digital Innovation One
