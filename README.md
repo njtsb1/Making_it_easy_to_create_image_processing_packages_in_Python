@@ -1,7 +1,7 @@
 Daily Learning
 
 # Project: Image Processing Package
-## Project Author: Karina Kato
+## Project Author: [Karina Kato](https://www.linkedin.com/in/karina-kato-4b2a56182/ "Karina Kato")
 ### Class: Coding Lab PRO - Digital Innovation One
 [(clique aqui para ver o meu perfil na plataforma)](https://web.dio.me/users/njtsb1)
 #### Tecnologia: Python
